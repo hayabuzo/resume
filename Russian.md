@@ -13,8 +13,8 @@
 Автор нескольких десятков персональных проектов в области цифровой фотографии и арта, работаю совместно с художниками и писателями, участвую в выставках, выступаю на тематических встречах и артист-толках, пишу статьи и переводы.
 
 ### Портфолио
-- Карта проектов [link](https://drive.google.com/file/d/1PH5zUCI5fG4gaNfyMc-qJ1GlCYsdxxsD/view?usp=sharing)
-- Behance [link](https://www.behance.net/hayabuzo)
+- [Карта проектов](https://drive.google.com/file/d/1PH5zUCI5fG4gaNfyMc-qJ1GlCYsdxxsD/view?usp=sharing)
+- [Behance](https://www.behance.net/hayabuzo)
 
 ### Участие в выставках
 - 2019 — «Цифровой урбанизм» (галерея «Зерно», СПб).
@@ -29,11 +29,11 @@
 - 2019 — «Оптические эффекты в цифровой фотографии» (журнал «fotoсфера», СПб).
 
 ### Тексты
-- 2018 — «Вокруг алфавита на нейромашине» [link](https://vk.com/@hayabuzo-across-the-alphabet)
-- 2018 — «Оптические эффекты в цифровой фотографии» [link](https://vk.com/@hayabuzo-lens-intervention)
-- 2018 — «Цифровые инструменты 90-х для разрушающей обработки снимков» [link](https://vk.com/@hayabuzo-digital-filters)
-- 2019 — «Визуализация спектров Фурье с помощью Python» [link](https://vk.com/@hayabuzo-fourier-spectrum)
-- 2022 — «Генеративная фотография» [link](https://vk.com/@hayabuzo-generative-photography)
+- 2018 — «Вокруг алфавита на нейромашине» / [link](https://vk.com/@hayabuzo-across-the-alphabet)
+- 2018 — «Оптические эффекты в цифровой фотографии» / [link](https://vk.com/@hayabuzo-lens-intervention)
+- 2018 — «Цифровые инструменты 90-х для разрушающей обработки снимков» / [link](https://vk.com/@hayabuzo-digital-filters)
+- 2019 — «Визуализация спектров Фурье с помощью Python» / [link](https://vk.com/@hayabuzo-fourier-spectrum)
+- 2022 — «Генеративная фотография» / [link](https://vk.com/@hayabuzo-generative-photography)
 
 ## Программирование
 
@@ -43,9 +43,9 @@
 
 ### Портфолио
 
-- GitHub [link](https://github.com/hayabuzo/)
-- OpenProcessing [link](https://openprocessing.org/user/223853)
-- ShaderToy [link](https://www.shadertoy.com/user/hayabuzo)
+- [GitHub](https://github.com/hayabuzo/)
+- [OpenProcessing](https://openprocessing.org/user/223853)
+- [ShaderToy](https://www.shadertoy.com/user/hayabuzo)
 
 ### Основные проекты
 
