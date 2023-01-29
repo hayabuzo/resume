@@ -49,7 +49,7 @@
 
 ### Основные проекты
 
-**mIRO)))** — приложение для генеративной фотосъемки со встроенным редактором шейдеров, библиотекой графических функций и визуальных эффектов. [app](https://hayabuzo.github.io/mIRO/) / [repo](https://github.com/hayabuzo/mIRO)-  [article](https://www.behance.net/gallery/152769473/Generative-Photography)
+**mIRO)))** — приложение для генеративной фотосъемки со встроенным редактором шейдеров, библиотекой графических функций и визуальных эффектов. [app](https://hayabuzo.github.io/mIRO/) / [repo](https://github.com/hayabuzo/mIRO) / [article](https://www.behance.net/gallery/152769473/Generative-Photography)
 
 **myTable** — приложение для просмотра, отбора и сортировки изображений, имитирует работу с напечатанными фотоснимками, разложенными на столе. [app](https://hayabuzo.github.io/myTable/) / [repo](https://github.com/hayabuzo/myTable) / [video](https://www.youtube.com/watch?v=z9mCGHdq55A)
 
